@@ -1,6 +1,6 @@
 # The Library
 
-A meta-skill for private-first distribution of agentics (skills, agents, and prompts) across agents, devices, and teams.
+A meta-skill for private-first distribution of agentics (skills, agents, and prompts) across agents, devices, and teams..
 
 ![The Library](images/10_meta_skill.svg)
 
